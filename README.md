@@ -1,10 +1,5 @@
 ### Hi there, I'm Dmitry 👋
 
-<!--
-**Dmitrrr84/Dmitrrr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### About me :sunglasses:
 - Прочитал лучшие книги про тестирование; :fire:
 - В тестировании с 2021 года;
@@ -16,4 +11,4 @@ Here are some ideas to get you started:
 - Вкусно готовлю));
 
 Мое кредо: :Живу по любви, работаю от души)!
--->
+
